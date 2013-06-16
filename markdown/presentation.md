@@ -1,5 +1,5 @@
-# Automatização de deploy com "django-fab-deploy"
-## Matheus Lima
+### Automatização de deploy com "django-fab-deploy"
+#### Matheus Lima
 
 
 
@@ -24,27 +24,48 @@
     * Templates de configuração
     * Requirements
     * Desvantagens
+* Demonstração
+    * Pizza-django
 * Proposta
 * Conclusão
 
 
-## External 1.2
 
-Content 1.2
+## Problemática
 
-
-
-## External 2
-
-Content 2.1
+* Trabalho repetitivo
+* Tempo e paciência
+* Custo
 
 
 
-## External 3.1
+## Vantagens
 
-Content 3.1
+* Deploy em um comando
+* Menos chances de cometer erro
+* ...
 
 
-## External 3.2
+
+## django-fab-deploy
+
+django-fab-deploy é uma biblioteca python com uma série de comandos prontos para deploy de aplicações Django.
+
+
+## Ambiente
 
 Content 3.2
+
+
+
+### Demonstração
+
+
+
+### Proposta
+Usina
+
+
+
+### Conclusão
+
